@@ -42,7 +42,7 @@ export default function Home() {
             </a>
 
             <a
-               href="/public/upcv.pdf"
+               href="/public/myresume.pdf"
                download="Upendra_Kewat_Resume.pdf" // Optional: name when saved
                className="flex items-center gap-2 bg-cyan-400 text-slate-900 px-4 py-2 rounded hover:bg-cyan-500 transition shadow-lg hover:shadow-cyan-400/50"
             >
